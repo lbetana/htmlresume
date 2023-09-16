@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+               
+p{
+color: black;
+text-align: left;
+font-size: 2vw;
+font-weight: 50;
+}
+h1[id='cyh']{  
+font-family: 'poppins';
+color: red  ;
+background-color: lightgrey;
+text-align: left;
+font-weight: 900;
+font-size: 5vw;  
+}
+h1[id='bbb']{   
+    color:green;
+    font-family: poppins;
+    text-align: left;
+}
+      
+h1{ 
+    color: rgb(14, 117, 253) !important;
+    text-align: center !important;
+}
+
